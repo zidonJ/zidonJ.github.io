@@ -1,3 +1,4 @@
+
 title: the Simplex theme
 logo_img: /assets/img/icons/golasblog_logo.svg
 description: description
@@ -20,3 +21,4 @@ defaults:
       type: category
     values:
       layout: "category"
+
